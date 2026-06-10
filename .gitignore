@@ -1,0 +1,10 @@
+*.dSYM/
+.DS_Store
+
+.ipynb_checkpoints/
+__pycache__/
+
+*.pdf
+*.ppt
+*.pptx
+shareOI/
