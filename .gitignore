@@ -1,5 +1,6 @@
 *.dSYM/
 .DS_Store
+.cph/
 
 .ipynb_checkpoints/
 __pycache__/
