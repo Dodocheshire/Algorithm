@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-// #include "../../template/debugging.h"
+#include "myprint.h"
 using namespace std;
 #ifdef LOCAL
     #define dbg(v) cout << "line[" << __LINE__ << "]: " << #v << " = " << v << endl;

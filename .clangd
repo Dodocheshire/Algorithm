@@ -1,0 +1,5 @@
+CompileFlags:
+    Compiler: /opt/homebrew/bin/g++-15
+    Add:
+    - -std=c++20
+    - -I/Users/owl/Documents/Study/计划/Algorithm/template # 使用绝对目录，因为clangd解析相对-I路径时,基准目录是被编译源文件所在的目录
